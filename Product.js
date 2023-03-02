@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './Product.css';
 
 function Product({title, image, price, rating}) {
@@ -27,4 +27,4 @@ function Product({title, image, price, rating}) {
   )
 }
 
-export default Product
+export default Product;
